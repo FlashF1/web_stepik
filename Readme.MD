@@ -1,1 +1,1 @@
-test web server
+django web stepik
